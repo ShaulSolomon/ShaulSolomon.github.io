@@ -36,6 +36,9 @@ Details to come soon.
 Participated in the 2020 Radar Detection Challenge by The Israeli Ministry of Defense "Directorate of Defense Research & Development" (DDR&D) <br>
 <a href="https://competitions.codalab.org/competitions/25389#learn_the_details"> Competition Details </a> <br>
 
+> The participants’ goal is to classify segments of radar tracks of humans or animals using the I/Q signal matrix as an input. The task at hand is a binary classification task; the tracked objects are either humans or animals.
+The data is real-world data, gathered from diverse geographical locations, different times, sensors, and qualities (high- and low-signal to noise ratio—SNR).
+
 Working together with three friends from Y-Data, we got to the respective 24th place.
 
 <img src="images/mafat_spectro.png?raw=true"/>
