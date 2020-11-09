@@ -10,7 +10,7 @@ For the industry project of the Y-Data course, I partnered up with Academix and 
 
 [To watch the final presentation](https://tinyurl.com/y3lepbkz)
 
-<img src="images/latent_space.png?raw=true"/>
+<img src="images/Research Papers.png?raw=true"/>
 
 Topics addressed:
 <br>
