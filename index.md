@@ -2,13 +2,13 @@
 
 ---
 
-<h1> [Industry Project - Author Name Disambiguation](https://shaulsolomon.github.io/academix-ydata-project-truncated/) </h1>
+# [Industry Project - Author Name Disambiguation](https://shaulsolomon.github.io/academix-ydata-project-truncated/)
 
 This a truncated and redacted version of the original project. Without the data or the company-provided code, none of the notebooks will be directly usable, but extracting functions and pipelines are viable.
 
 For the industry project of the Y-Data course, I partnered up with Academix and helped them deal “Author Name Disambiguation”. Fundamentally, given a group of academix papers, we wanted to figure out how many unique authors existed, and to assign each paper to their respective author.
 
-[To watch the final presentation](https://tinyurl.com/y3lepbkz)
+## [To watch the final presentation](https://tinyurl.com/y3lepbkz)
 
 <img src="images/Research Papers.png?raw=true"/>
 
@@ -23,7 +23,7 @@ Topics addressed:
 <br>
 Results:
 
-**We improved the baseline F1 Score from 0.9 to 0.937**
+## **We improved the baseline F1 Score from 0.9 to 0.937**
 
 
 ---
