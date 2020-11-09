@@ -20,9 +20,9 @@ Topics addressed:
 - [x] Variational Auto-Encoders
 - [x] Word2Vec feature embeddings
 - [x] AWS EC2
-<br>
-Results:
 
+<br><br>
+Results:
 ## **We improved the baseline F1 Score from 0.9 to 0.937**
 
 
