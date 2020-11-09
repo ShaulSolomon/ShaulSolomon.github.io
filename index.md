@@ -31,7 +31,7 @@ Details to come soon.
 
 ---
 
-# [MAFAT Radar Detection Challenge]
+# [MAFAT Radar Detection Challenge](https://github.com/ShaulSolomon/sota-mafat-radar)
 
 Participated in the 2020 Radar Detection Challenge by The Israeli Ministry of Defense "Directorate of Defense Research & Development" (DDR&D) <br>
 <a href="https://competitions.codalab.org/competitions/25389#learn_the_details"> Competition Details </a> <br>
