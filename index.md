@@ -2,7 +2,7 @@
 
 ---
 
-[Industry Project - Author Name Disambiguation](https://shaulsolomon.github.io/academix-ydata-project-truncated/)
+<h1> [Industry Project - Author Name Disambiguation](https://shaulsolomon.github.io/academix-ydata-project-truncated/) </h1>
 
 This a truncated and redacted version of the original project. Without the data or the company-provided code, none of the notebooks will be directly usable, but extracting functions and pipelines are viable.
 
