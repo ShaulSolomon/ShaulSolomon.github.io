@@ -5,7 +5,7 @@
 # Oh ____ Where Art Thou? - Personal AI Guru [Art Project]
 <img src="images/AI_Guru_logo_small.png?raw=true"/>
 
-**Objective: Generative Language Model to serve as an AI Guru. **
+**Objective: Generative Language Model to serve as an AI Guru.**
 
 > "[T]he guru’s job is to show the inquirer in some effective way that they are already what they are looking for." - Alan Watts 
 
