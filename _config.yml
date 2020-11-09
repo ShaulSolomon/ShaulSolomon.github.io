@@ -1,13 +1,13 @@
 title: shaulsolomon.github.io
 logo: "/images/github_logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  01101000 01110101 01101101 01100001 01101110  
+  01101000 01110101 01101101 <br> 01100001 01101110  
   <br><br>
   Data Scientist // Poet // Human
   <br><br>
-  <a href="https://www.linkedin.com/in/shaulsolomon/">Check out my LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/shaulsolomon/">LinkedIn - Looking for Work</a> 
   <br>
-  <a href="https://www.shaulsolomon.com">Check out my Poetry Website.</a>
+  <a href="https://www.shaulsolomon.com">Poetry Website - Open to Collaborate</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
