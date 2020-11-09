@@ -1,5 +1,4 @@
 ## Current Projects
-
 ---
 
 # Oh ____ Where Art Thou? - Personal AI Guru [Art Project]
@@ -18,14 +17,28 @@ Topics Addressed:<br>
 - [x] Text Generation NN Models
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-
+## Portfolio
 
 ---
 
-## Portfolio
+# [MAFAT Radar Detection Challenge]
+
+Participated in the 2020 Radar Detection Challenge by The Israeli Ministry of Defense "Directorate of Defense Research & Development" (DDR&D) <br>
+<a href="https://competitions.codalab.org/competitions/25389#learn_the_details"> Competition Details </a> <br>
+
+Working together with three friends from Y-Data, we got to the respective 24th place.
+
+<img src="images/mafat_spectro.png?raw=true"/>
+
+Topics Addressed: <br>
+- [x] Data Augmentation
+- [x] Convolutional Neural Networks
+- [x] Temporal Convolutional Networks
+- [x] Spectogram and Scalogram Processing
+- [x] AWS EC2/ECR/EFS
+- [x] WAND&B
+- [x] Streaming Pipeline
 
 ---
 
