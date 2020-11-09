@@ -15,6 +15,7 @@ Topics Addressed:<br>
 - [x] Data Scraping
 - [x] Data Cleaning
 - [x] nltk
+- [x] Text Generation NN Models
 
 ---
 [Project 3 Title](http://example.com/)
