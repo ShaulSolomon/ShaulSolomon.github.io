@@ -23,7 +23,7 @@ Topics addressed:
 <br>
 Results:
 
-> **We improved the baseline F1 Score from 0.9 to 0.937 **
+**We improved the baseline F1 Score from 0.9 to 0.937 **
 
 
 ---
