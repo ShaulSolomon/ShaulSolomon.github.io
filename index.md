@@ -18,6 +18,15 @@ Topics Addressed:<br>
 
 ---
 
+# Semantic Similarity Exploration
+
+Researching methodologies to get a better metric of Semantic Similarity.
+Process is still on-going.
+
+Details to come soon.
+
+---
+
 ## Portfolio
 
 ---
