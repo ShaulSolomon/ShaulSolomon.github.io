@@ -1,3 +1,29 @@
+## Current Projects
+
+---
+
+# Oh ____ Where Art Thou? - Personal AI Guru [Art Project]
+<img src="images/whereartthou_logo.png?raw=true"/>
+
+**Objective: Generative Language Model to serve as an AI Guru. **
+
+> "[T]he guru’s job is to show the inquirer in some effective way that they are already what they are looking for." - Alan Watts 
+
+While I am still writing the code, I don't want to share too much about the technical aspect just yet.
+
+Topics Addressed:<br>
+- [x] Data Scraping
+- [x] Data Cleaning
+- [x] nltk
+
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+
+---
+
 ## Portfolio
 
 ---
@@ -23,16 +49,6 @@ Topics addressed:
 
 <br><br>
 ## Results: **We improved the baseline F1 Score from 0.9 to 0.937**
-
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 
 ---
 <p style="font-size:18px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
