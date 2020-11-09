@@ -1,7 +1,7 @@
-## Current Projects
+# Current Projects
 ---
 
-# Oh ____ Where Art Thou? - Personal AI Guru [Art Project]
+## Oh ____ Where Art Thou? - Personal AI Guru [Art Project]
 <img src="images/AI_Guru_logo_small.png?raw=true"/>
 
 **Objective: Generative Language Model to serve as an AI Guru.**
@@ -18,7 +18,7 @@ Topics Addressed:<br>
 
 ---
 
-# Semantic Similarity Exploration
+## Semantic Similarity Exploration
 
 Researching methodologies to get a better metric of Semantic Similarity.
 Process is still on-going.
@@ -27,11 +27,11 @@ Details to come soon.
 
 ---
 
-## Portfolio
+# Portfolio
 
 ---
 
-# [MAFAT Radar Detection Challenge](https://github.com/ShaulSolomon/sota-mafat-radar)
+## [MAFAT Radar Detection Challenge](https://github.com/ShaulSolomon/sota-mafat-radar)
 
 Participated in the 2020 Radar Detection Challenge by The Israeli Ministry of Defense "Directorate of Defense Research & Development" (DDR&D) <br>
 <a href="https://competitions.codalab.org/competitions/25389#learn_the_details"> Competition Details </a> <br>
@@ -54,7 +54,7 @@ Topics Addressed: <br>
 
 ---
 
-# [Industry Project - Author Name Disambiguation](https://github.com/ShaulSolomon/academix-ydata-project-truncated)
+## [Industry Project - Author Name Disambiguation](https://github.com/ShaulSolomon/academix-ydata-project-truncated)
 
 This a truncated and redacted version of the original project. Without the data or the company-provided code, none of the notebooks will be directly usable, but extracting functions and pipelines are viable.
 
@@ -74,7 +74,7 @@ Topics addressed:
 - [x] AWS EC2
 
 <br><br>
-## Results: **We improved the baseline F1 Score from 0.9 to 0.937**
+### Results: **We improved the baseline F1 Score from 0.9 to 0.937**
 
 ---
 <p style="font-size:18px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
